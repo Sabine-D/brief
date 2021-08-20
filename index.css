@@ -1,0 +1,12 @@
+div{
+    border: 1px solid blue;
+}
+.true{
+    background-color: lightgreen;
+}
+.false{
+    background-color: red;
+}
+.content{
+    display: none;
+}
